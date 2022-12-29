@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch sub
+=======
+on master branch
+>>>>>>> master
